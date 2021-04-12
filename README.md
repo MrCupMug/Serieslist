@@ -1,0 +1,2 @@
+# Serieslist
+Console series journal
